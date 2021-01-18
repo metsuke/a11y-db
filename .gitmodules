@@ -1,0 +1,12 @@
+[submodule "modules/db-basics"]
+	path = modules/db-basics
+	url = https://github.com/metsuke/db-basics
+[submodule "modules/a11y-section508-db"]
+	path = modules/a11y-section508-db
+	url = https://github.com/metsuke/a11y-section508-db
+[submodule "modules/a11y-wcag-db"]
+	path = modules/a11y-wcag-db
+	url = https://github.com/metsuke/a11y-wcag-db
+[submodule "modules/a11y-profiles-db"]
+	path = modules/a11y-profiles-db
+	url = https://github.com/metsuke/a11y-profiles-db
